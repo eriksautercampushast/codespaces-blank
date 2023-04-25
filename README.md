@@ -1,4 +1,4 @@
-# Een nieuwe CodeSpace op basis van `Blanc` bevat Node js
+# Een nieuwe CodeSpace op basis van `Blanc` bevat Node.js
 ## Test dit vanuit een nieuwe terminal
 
 `$ node`
